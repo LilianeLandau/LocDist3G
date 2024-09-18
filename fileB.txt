@@ -1,1 +1,3 @@
 file B created on GitHub to be transfered to my local project
+
+added new line on file be to transfer on GitHub
